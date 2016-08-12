@@ -1,0 +1,13 @@
+byte - done
+change
+clock
+compare
+date
+diff
+mid
+natarray
+natb
+some
+sum3
+swap
+waterjugs
