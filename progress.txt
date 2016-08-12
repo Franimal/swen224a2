@@ -1,13 +1,13 @@
 byte - done
 change - done
 clock
-compare
+compare - done
 date
 diff
 mid
 natarray
-natb
-some
+natb - done
+some - done
 sum3
 swap
 waterjugs
