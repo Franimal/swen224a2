@@ -1,5 +1,5 @@
 byte - done
-change
+change - done
 clock
 compare
 date
