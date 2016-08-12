@@ -1,13 +1,13 @@
 byte - done
 change - done
-clock
+clock - done
 compare - done
-date
-diff
-mid
-natarray
+date - done
+diff - done
+mid - done
+natarray - done
 natb - done
 some - done
-sum3
-swap
+sum3 - done
+swap - done
 waterjugs
